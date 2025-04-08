@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://vwdv4elxjbqo"]
+
+[ext_resource type="Script" path="res://aula10.gd" id="1_3hifo"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_3hifo")
